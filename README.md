@@ -6,6 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  
 - <b>Microsoft Azure</b>
   - [Creating Resources Groups, Storage Accounts, and Containers](https://github.com/Jacobvillagomez1/Creating-Resources-Groups-Storage-Accounts-and-Containers)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
@@ -13,6 +14,19 @@
   - [VPN Setup and Usage With Proton VPN](https://github.com/Jacobvillagomez1/VPN-Setup-and-Usage-With-Proton-VPN)
   - [Create, Inspect, and Delete DNS A Records and CNAME](https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME)
   - [Network File Shares and Permissions](https://github.com/Jacobvillagomez1/Network-File-Shares-and-Permissions)
+    
+- <b>Google CyberSecuirty Linux/Bash</b>
+  - [Install Software In a Linux Distrubution](https://github.com/Jacobvillagomez1/Install-Software-In-a-Linux-Distrubution)
+  - [Activity Examine Input and Output In Shell](https://github.com/Jacobvillagomez1/Activity-Examine-Input-and-Output-In-Shell)
+    
+ - <b>Linux Commands</b>
+   - [Linux Commands Part 1](https://github.com/Jacobvillagomez1/Linux-Commands-Part-1)
+     
+ - <b>CMD Commands</b>
+   - [Cmd Commands Part 1](https://github.com/Jacobvillagomez1/CMD-Commands-Part-1)
+
+  
+
 
 <h2>🤳Connect with me:</h2>
 
