@@ -1,6 +1,5 @@
 ### Hi, I'm Jacob, an 👋<a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
-THIS IS MY BACK UP GITHUB PROFILE
-
+### THIS IS MY BACKUP GITHUB PROFILE
 <h2>👨‍💻 Information Technology Projects 👨‍💻</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
