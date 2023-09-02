@@ -25,6 +25,10 @@
  - <b>CMD Commands</b>
    - [Cmd Commands Part 1](https://github.com/Jacobvillagomez1/CMD-Commands-Part-1)
 
+ - <b>Powershell Python</b>
+   - [Generate Names Create Users ps1](https://github.com/Jacobvillagomez1/Generate-Names-Create-Users.ps1/blob/main/README.md)
+   
+
   
 
 
