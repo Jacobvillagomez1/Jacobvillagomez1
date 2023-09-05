@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jacobvillagomez1/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Jacobvillagomez1/post-install-config/blob/main/README.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Jacobvillagomez1/ticket-lifecycle)
   
 - <b>Microsoft Azure</b>
   - [Creating Resources Groups, Storage Accounts, and Containers](https://github.com/Jacobvillagomez1/Creating-Resources-Groups-Storage-Accounts-and-Containers)
